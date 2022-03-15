@@ -1,7 +1,7 @@
 <br />
 <br />
 <h1 align="center">
-  <img alt="DoWhile" src=".github/assets/logo.svg" width="420px" /> 
+  <img alt="Dt.money" src=".github/assets/logo.svg" width="420px" /> 
   <br />
   <br />
   React | Typescript  
